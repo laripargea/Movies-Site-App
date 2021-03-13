@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab5_oop_TESTS::APP_FILME_TEST">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>APP_FILME_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::CONTROLLER_ADMINISTRATOR_TEST">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>CONTROLLER_ADMINISTRATOR_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::CONTROLLER_BENUTZER_TEST">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>CONTROLLER_BENUTZER_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::CONTROLLER_FILME_TEST">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>CONTROLLER_FILME_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::FILME_TEST">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>FILME_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::UI_ADMINISTRATOR_TEST">
+    <Position X="1.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>UI_ADMINISTRATOR_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::UI__BENUTZER_TEST">
+    <Position X="4.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>UI_BENUTZER_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5_oop_TESTS::UI_FILME_TEST">
+    <Position X="6.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAA=</HashCode>
+      <FileName>UI_FILME_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB5_oop_TEST::REPO_FILME_TEST">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAAAAAAAQAAAAAAIBAAAAAAAAQICAQAAAAAACA=</HashCode>
+      <FileName>REPO_FILME_TEST.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
